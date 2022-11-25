@@ -1,0 +1,12 @@
+div{
+    background: white;
+}    color: white;
+    text-align: center;
+}
+.white-background{
+    background: white;
+    text-align: center;
+}
+h1{
+    text-transform: capitalize;
+    Letter-spacing: 20px;
